@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [githublink.](githublink.)
+- 👨‍💻 Some of my most important projects are available [here](https://github.com/dmamakas2000?tab=repositories)
 
 - 📝 Check out my latest publication on [ACL Anthology](https://aclanthology.org/2022.nllp-1.11/)
 
