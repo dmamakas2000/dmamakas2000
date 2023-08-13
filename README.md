@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/dimMam13" target="blank"><img src="https://img.shields.io/twitter/follow/dimMam13?logo=twitter&style=for-the-badge" alt="dimMam13" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dimMamg13" target="blank"><img src="https://img.shields.io/twitter/follow/dimMamg13?logo=twitter&style=for-the-badge" alt="dimMamg13" /></a> </p>
 
 - 🔭 I’m currently working on [IPO](link)
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dimMam13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimMam13" height="30" width="40" /></a>
+<a href="https://twitter.com/dimMamg13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimMamg13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dimitrios-mamakas-493931186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitrios-mamakas-493931186" height="30" width="40" /></a>
 <a href="https://instagram.com/dimitris_mamakas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dimitris_mamakas" height="30" width="40" /></a>
 </p>
