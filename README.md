@@ -47,5 +47,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dmamakas2000&show_icons=true&locale=en" alt="dmamakas2000" />
 
 <br>
-
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dmamakas2000&" alt="dmamakas2000" />
