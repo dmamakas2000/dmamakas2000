@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/dimMamg13" target="blank"><img src="https://img.shields.io/twitter/follow/dimMamg13?logo=twitter&style=for-the-badge" alt="dimMamg13" /></a> </p>
 
-- 🔭 I’m currently working on [IPO](link)
-
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 Some of my most important projects are available [here](https://github.com/dmamakas2000?tab=repositories)
@@ -16,9 +14,7 @@
 
 - 💬 Ask me about **#AI #NLP #PyTorch**
 
-- 📫 How to reach me **dimitris.mamakas@gmail.com**
-
-- 📄 Know about my experiences [resumelink](resumelink)
+- 📫 How to reach me **[dimitris.mamakas@gmail.com](mailto:dimitris.mamakas@gmail.com)**
 
 - ⚡ Fun fact **I've being coding for 5 years**
 
