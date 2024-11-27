@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **#AI #NLP #PyTorch**
 
-- 📫 How to reach me **[dimitris.mamakas@gmail.com](mailto:dimitris.mamakas@gmail.com)**
+- 📫 Reach me **[dimitris.mamakas@gmail.com](mailto:dimitris.mamakas@gmail.com)**
 
 - ⚡ Fun fact **I've being coding for 5 years**
 
