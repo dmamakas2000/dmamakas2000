@@ -8,6 +8,10 @@
   </a> 
 </p>
 
+👋 Hello and Welcome!
+
+I'm Dimitrios Mamakas, a passionate Computer Science Master's graduate 🎓 with expertise in Natural Language Processing 🤖 and Software Development 💻. I love creating impactful solutions through innovative technologies, as seen in my projects like TikTok Android App 📱 and Legal Document Classification ⚖️. Here are some interesting facts about me!
+
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 Some of my most important projects are available [here](https://github.com/dmamakas2000?tab=repositories)
